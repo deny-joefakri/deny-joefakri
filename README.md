@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deny</h1>
-<h3 align="center">An adept Android developer with over 8 years of experience in Kotlin and Java, with a focus on Ionic and Flutter for more than 2 years. Proficient in TypeScript, Angular, and enhancing iOS features. Possesses backend development skills using PHP for 2 years. Known for collaborative teamwork and a proven track record of success, including notable contributions at myXL. Enthusiastic about fostering innovation and delivering impactful results.</h3>
+<h3 align="center">An adept Android developer with over 6 years of experience in Kotlin and Java, with a focus on Ionic and Flutter for more than 2 years. Proficient in TypeScript, Angular, and enhancing iOS features. Possesses backend development skills using PHP for 2 years. Known for collaborative teamwork and a proven track record of success, including notable contributions at myXL. Enthusiastic about fostering innovation and delivering impactful results.</h3>
 
 I have worked on projects :
 1. myXL : https://play.google.com/store/apps/details?id=com.apps.MyXL&hl=id&gl=US
