@@ -2,17 +2,18 @@
 <h3 align="center">An adept Android developer with over 6 years of experience in Kotlin and Java, with a focus on Ionic and Flutter for more than 2 years. Proficient in TypeScript, Angular, and enhancing iOS features. Possesses backend development skills using PHP for 2 years. Known for collaborative teamwork and a proven track record of success, including notable contributions at myXL. Enthusiastic about fostering innovation and delivering impactful results.</h3>
 
 I have worked on projects :
-1. myXL : https://play.google.com/store/apps/details?id=com.apps.MyXL&hl=id&gl=US
-2. MIC Transformer : https://unictive.com/portofolio/detail/107
-3. Nextgen Conference 2020 : https://unictive.com/portofolio/detail/108
-4. BCA PRS II : https://unictive.com/portofolio/detail/100
-5. Velo Apps : https://unictive.com/portofolio/detail/86
-6. Nutriboost Apps : https://unictive.com/portofolio/detail/74
-7. MS iScan Apps : https://unictive.com/portofolio/detail/72
-8. Bank Syariah Mandiri Antrian : https://unictive.com/portofolio/detail/46
-9. IKF Free Member Apps : https://unictive.com/portofolio/detail/63
-10. Angkasa Pura i-Perform : https://unictive.com/portofolio/detail/5
-11. 
+1. Bions : [https://play.google.com/store/apps/details?id=com.apps.MyXL&hl=id&gl=US](https://play.google.com/store/apps/details?id=id.bions.bnis.android&hl=id)
+2. myXL : https://play.google.com/store/apps/details?id=com.apps.MyXL&hl=id&gl=US
+3. MIC Transformer : https://unictive.com/portofolio/detail/107
+4. Nextgen Conference 2020 : https://unictive.com/portofolio/detail/108
+5. BCA PRS II : https://unictive.com/portofolio/detail/100
+6. Velo Apps : https://unictive.com/portofolio/detail/86
+7. Nutriboost Apps : https://unictive.com/portofolio/detail/74
+8. MS iScan Apps : https://unictive.com/portofolio/detail/72
+9. Bank Syariah Mandiri Antrian : https://unictive.com/portofolio/detail/46
+10. IKF Free Member Apps : https://unictive.com/portofolio/detail/63
+11. Angkasa Pura i-Perform : https://unictive.com/portofolio/detail/5
+12. 
 
 
 ##  Contact Me:
